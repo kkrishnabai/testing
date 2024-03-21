@@ -1,6 +1,6 @@
 <?php
 // Establish connection to MySQL database
-$servername = "localhost";
+$servername = "127.0.0.1";
 $username = "root"; // Your MySQL username
 $password = "krishna"; // Your MySQL password
 $dbname = "test"; // Your MySQL database name
